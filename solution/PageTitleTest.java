@@ -35,7 +35,7 @@ public class PageTitleTest {
 		 * a. Set the Hub URL
 		 * b. Pass DesiredCapabilities object
 		 */
-		driver = new RemoteWebDriver(new URL("http://192.168.1.2:5555/wd/hub"), capabilities);
+		driver = new RemoteWebDriver(new URL("http://192.168.1.2:4444/wd/hub"), capabilities);
 	}
 
 	@Test

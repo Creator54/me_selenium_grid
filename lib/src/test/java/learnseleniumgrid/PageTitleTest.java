@@ -23,7 +23,7 @@ public class PageTitleTest {
 		 // Step - 5 : Set platform using setCapability method
 		 /**
 		  *  Step - 6 : Create the object of RemoteWebDriver 
-		  *  a. Set the *Node* URL
+		  *  a. Set the Hub URL
 		  *  b. Pass DesiredCapabilities object
 		  */
 		}
